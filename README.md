@@ -32,9 +32,8 @@ node code.analyzer.js [options]
 Application options
 ---------------
 
-**-o**, --origin  <folder> Origin source folder               [required]
-**-p**, --proxy   <folder> Proxy source folder                [required]
-
+  * **-o**, --origin  <folder> Origin source folder               [required]
+  * **-p**, --proxy   <folder> Proxy source folder                [required]
 
 License
 -------
